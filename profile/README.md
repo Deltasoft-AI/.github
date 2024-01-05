@@ -36,8 +36,8 @@ Please review the individual project repositories for specific contribution guid
 
 Feel free to reach out to us if you have any questions, suggestions, or feedback regarding our projects or organization:
 
-- Email: deltasoftai@gmail.com
-- Website: [https://deltasoft-ai.netlify.app](https://deltasoft-ai.netlify.app)
+- Email: contact@deltasoftai.com
+- Website: https://deltasoftai.com
 
 ### Thank you for your interest in Deltasoft. We look forward to collaborating with you!
 
