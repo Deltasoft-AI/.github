@@ -1,10 +1,10 @@
-# Deltasoft
+# Deltasoft AI
 
-Welcome to the Deltasoft organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
+Welcome to Deltasoft AI organization's GitHub profile page! This page provides an overview of our organization, its purpose, projects, and guidelines for contribution.
 
 ## About Deltasoft
 
-Deltasoft is a forward-thinking organization dedicated to creating innovative software solutions. We strive to develop cutting-edge applications, frameworks, and libraries that empower developers and enhance user experiences. Our team is passionate about technology, collaboration, and open source.
+Deltasoft AI is a forward-thinking organization dedicated to creating innovative software solutions. We strive to develop cutting-edge applications, frameworks, and libraries that empower developers and enhance user experiences. Our team is passionate about technology, collaboration, and open source.
 
 ## Projects
 
@@ -39,7 +39,7 @@ Feel free to reach out to us if you have any questions, suggestions, or feedback
 - Email: contact@deltasoftai.com
 - Website: https://deltasoftai.com
 
-### Thank you for your interest in Deltasoft. We look forward to collaborating with you!
+### Thank you for your interest in Deltasoft AI. We look forward to collaborating with you!
 
 ## License
 
